@@ -1,0 +1,5 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Egypt,2021-01-24,Sinopharm/Beijing,"http://english.ahram.org.eg/NewsContent/1/64/399964/Egypt/Politics-/,-medical-staff-vaccinated-against-COVID-in-first-.aspx",0,0,
+Egypt,2021-01-30,Sinopharm/Beijing,"http://english.ahram.org.eg/NewsContent/1/64/399964/Egypt/Politics-/,-medical-staff-vaccinated-against-COVID-in-first-.aspx",1315,1315,
+Egypt,2021-03-27,"Oxford/AstraZeneca, Sinopharm/Beijing",https://reliefweb.int/report/iran-islamic-republic/covid-19-situation-updates-week-12-21-27-march-2021,164534,164534,
+Egypt,2021-04-18,"Oxford/AstraZeneca, Sinopharm/Beijing",https://english.ahram.org.eg/NewsContent/1/64/409875/Egypt/Politics-/Egypt-to-produce--mln-doses-of-Sinovac-coronavirus.aspx,660000,660000,
